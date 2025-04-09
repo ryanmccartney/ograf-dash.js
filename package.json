@@ -1,0 +1,22 @@
+{
+  "name": "ograf-dash.js",
+  "version": "1.0.0",
+  "description": "OGraf graphics rendered over a DASH player",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "format": "prettier --write *"
+  },
+  "author": "Ryan McCartney <ryan@mccartney.info>",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "dashjs": "^5.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3",
+    "vite": "^6.2.0"
+  }
+}
