@@ -53,7 +53,7 @@ body {
   height: 100%;
 }
 
-#videoControlBarContainer{
+#videoControlBarContainer {
   position: absolute;
   z-index: 1200;
   left: 0;
